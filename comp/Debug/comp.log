@@ -1,0 +1,3 @@
+﻿  comp.cpp
+C:\Users\coolc\source\repos\comp\comp\comp.cpp(253,21): warning C4018: <: несоответствие типов со знаком и без знака
+  comp.vcxproj -> C:\Users\coolc\source\repos\comp\Debug\comp.exe
